@@ -10,11 +10,12 @@
   <a href="https://www.facebook.com/LukitaKyuura/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
+<!--
 <div align="left">
   <a href="https://github.com/lucasnunes123">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasnunes123&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnunes123&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</div>-->
   
   
 <!--
